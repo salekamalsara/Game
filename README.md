@@ -1,10 +1,8 @@
 # Game
 **Description:** A repository of a game. In the game you have a character, and need to collect all diamonds and pass the obstactes to pass to the next level.
 **Technologies:**
--Telegram
 -Python
--FusionBrain_AI
--Pyrogram
+-Pygame
 **Functionality:**
 -collect diamonds
 -pass obstacles
